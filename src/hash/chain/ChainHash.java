@@ -1,4 +1,4 @@
-package test.hash;
+package hash.chain;
 public class ChainHash<K,V> {
 
 
