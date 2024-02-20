@@ -1,4 +1,4 @@
-package fouroperations;
+package ch01;
 
 import java.util.Scanner;
 

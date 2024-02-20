@@ -1,4 +1,4 @@
-package leapyear;
+package ch01;
 
 import java.util.Scanner;
 

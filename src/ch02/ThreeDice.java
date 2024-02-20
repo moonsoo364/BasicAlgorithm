@@ -1,4 +1,4 @@
-package conditionalstmt;
+package ch02;
 
 import java.util.Scanner;
 
